@@ -1,0 +1,199 @@
+@font-face {
+  font-family: 'Cheltenham';
+  src: url('style/cheltenham-normal-500.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Franklin';
+  src: url('style/franklin-normal-500.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Franklin';
+  src: url('style/franklin-normal-700.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  color: #333333;
+  background-color: white;
+  font-family: Cheltenham,georgia,times,serif;
+  font-style: normal;
+}
+
+h1 {
+  font-weight: 500;
+  color: #000;
+  text-align: center;
+}
+
+h2 {
+  font-size: .6875rem;
+  line-height: .75rem;
+  color: #000;
+  text-align: center;
+}
+
+h3, .highcharts-title {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  height: 18px;
+  text-align: center;
+  font-family: Franklin,arial,helvetica,sans-serif;
+  color: rgb(0,0,0);
+}
+
+p {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 500;
+  margin: 0 0 1em;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 1024px) {
+  .title h1 {
+    font-size: 47px;
+    line-height: 54px;
+  }
+  p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+@media (min-width: 740px) {
+  .title h1 {
+    font-size: 38px;
+    line-height: 46px;
+  }
+  p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+@media (max-width: 414px) {
+  .title h1 {
+      font-size: 32px;
+      line-height: 1.1;
+  }
+}
+
+.title {
+  max-width: 720px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 25px;
+  padding-bottom: 10px;
+}
+
+.byline {
+  float: none;
+  line-height: 1.1rem;
+  margin-top: 3px;
+  margin-bottom: 13px;
+  padding: 10px;
+}
+
+#author {
+  font-weight: bolder;
+  margin-right: 7px;
+  text-transform: uppercase;
+}
+
+.byline a,
+a:hover,
+a:visited {
+  color: black;
+}
+
+.paragraph {
+  padding-left: 10px;
+  padding-right: 10px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 17px;
+}
+
+.paragraph a,
+.paragraph a:hover,
+.paragraph a:visited {
+  color: #326891;
+  text-decoration: underline;
+}
+
+.graphic {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 100%;
+}
+
+.table, .tab-content {
+  font-family: Franklin,arial,helvetica,sans-serif;
+  line-height: 1.15em;
+  font-size: 14px;
+}
+
+.page-link {
+  color: #999;
+}
+
+.nav-tabs {
+  border-bottom: none;
+  margin-bottom: 10px;
+}
+
+.nav-tabs a {
+  font-family: Franklin,arial,helvetica,sans-serif;
+  border: 1px solid #e2e2e2;
+  padding: 8px;
+  font-size: 14px;
+  width: 110px;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #999;
+  text-decoration: none;
+  background-color: #efefef;
+}
+
+.nav-tabs #tab-left a {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-right: none;
+}
+
+.nav-tabs #tab-right a {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.nav-tabs .active, .nav-tabs .active a {
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+
+.footer p {
+  color: #999;
+  display: inline-block;
+  font-family: Franklin, arial, helvetica, sans-serif;
+  text-decoration: none;
+  font-size: 11px;
+  font-weight: 100;
+  font-style: normal;
+  height: 23px;
+  line-height: 16px;
+  padding: 10px 0;
+}
