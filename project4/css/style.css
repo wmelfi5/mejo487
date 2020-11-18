@@ -1,0 +1,70 @@
+
+#map, #list {
+  height: 80%;
+}
+
+#list {
+  font-size: 12px;
+  display: block;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.header h1{
+  font-size: 30px;
+  text-align: center;
+  padding: 20px;
+  font-weight: 300;
+}
+
+@media screen and (min-width: 705px) {
+  h1 {
+    font-size: 10px;
+  }
+}
+
+.footer{
+  height: 20px;
+  text-align: center;
+  margin-top: 15px;
+  display: relative;
+}
+
+.btn{
+  border: 1px solid #e2e2e2;
+  padding: 5px;
+  font-size: 12px;
+  width: 110px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  color: #999;
+  text-decoration: none;
+  background-color: #efefef;
+  position: relative;
+}
+
+.active{
+  color: black;
+  background-color: white;
+  text-decoration: none;
+}
+
+.popup button, .popup button:hover, .popup button:active, .popup button:visited {
+  border: 1px solid #e2e2e2;
+  padding: 5px;
+  font-size: 12px;
+  width: 110px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  color: #999;
+  text-decoration: none;
+  background-color: #efefef;
+  position: relative;
+}

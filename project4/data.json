@@ -1,0 +1,184 @@
+{
+  "data": [
+ {
+   "title": "Frank Porter Graham Student Union",
+   "address": "209 South Rd, Chapel Hill, NC 27599",
+   "phoneNumber": 19199622285,
+   "website": "http://carolinaunion.unc.edu/",
+   "appointmentRequired": "no",
+   "drivethru": "no",
+   "lat": 35.910314,
+   "lng": -79.047846
+ },
+ {
+   "title": "Campus Health",
+   "address": "320 Emergency Room Dr, Chapel Hill, NC 27599",
+   "phoneNumber": 19199662281,
+   "website": "http://campushealth.unc.edu/",
+   "appointmentRequired": "yes",
+   "drivethru": "no",
+   "lat": 35.905912,
+   "lng": -79.049515
+ },
+ {
+   "title": "Durham VA Medical Center",
+   "address": "508 Fulton St, Durham, NC 27705",
+   "phoneNumber": 19192860411,
+   "website": "https://www.durham.va.gov/locations/directions.asp",
+   "appointmentRequired": "yes",
+   "drivethru": "no",
+   "lat": 36.009162,
+   "lng": -78.938588
+ },
+ {
+   "title": "Duke University Hospital",
+   "address": "2301 Erwin Rd, Durham, NC 27710",
+   "phoneNumber": 19196848111,
+   "website": "https://www.dukehealth.org/hospitals/duke-university-hospital/home?utm_source=google&utm_medium=organic&utm_campaign=Directory+Management",
+   "appointmentRequired": "yes",
+   "drivethru": "yes",
+   "lat": 36.007529,
+   "lng": -78.938445
+ },
+ {
+   "title": "Avance Primary Care",
+   "address": "98 Chapelton Court #310, Chapel Hill, NC 27516",
+   "phoneNumber": 19195909005,
+   "website": "https://www.avancecare.com/locations/avance-primary-care-south-chapel-hill-nc/",
+   "appointmentRequired": "yes",
+   "drivethru": "yes",
+   "lat": 35.821935,
+   "lng": -79.086934
+ },
+ {
+   "title": "Walgreens",
+   "address": "200 N Lasalle St, Durham, NC 27705",
+   "phoneNumber": 18009254733,
+   "website": "walgreens.com",
+   "appointmentRequired": "yes",
+   "drivethru": "yes",
+   "lat": 36.019346,
+   "lng": -78.944973
+ },
+ {
+   "title": "ARCpoint Labs",
+   "address": "3326 Durham-Chapel Hill Blvd Suite A 110, Durham, NC 27707",
+   "phoneNumber": 19193387900,
+   "website": "https://www.arcpointlabs.com/raleigh-durham/?utm_source=local&utm_medium=organic&utm_campaign=gmb",
+   "appointmentRequired": "yes",
+   "drivethru": "no",
+   "lat": 35.972451,
+   "lng": -78.946547
+ },
+ {
+   "title": "CVS",
+   "address": "3573 Hillsborough Rd, Durham, NC 27705",
+   "phoneNumber": 19193830171,
+   "website": "https://www.cvs.com/store-locator/cvs-pharmacy-address/3573+Hillsborough+Road-Durham-NC-27705/storeid=7047?WT.mc_id=LS_GOOGLE_FS_7047",
+   "appointmentRequired": "yes",
+   "drivethru": "yes",
+   "lat": 36.021816,
+   "lng": -78.953508
+ },
+ {
+   "title": "Avance Primary Care",
+   "address": "1821 Martin Luther King Jr Pkwy, Durham, NC 27707",
+   "phoneNumber": 19197484990,
+   "website": "https://www.avancecare.com/locations/avance-primary-care-durham-nc/",
+   "appointmentRequired": "yes",
+   "drivethru": "yes",
+   "lat": 35.95973,
+   "lng": -78.959591
+ },
+ {
+   "title": "CVS",
+   "address": "6911 Garrett Rd, Durham, NC 27707",
+   "phoneNumber": 19194014664,
+   "website": "https://www.cvs.com/store-locator/cvs-pharmacy-address/6911+Garrett+Road-Durham-NC-27707/storeid=2710?WT.mc_id=LS_GOOGLE_FS_2710",
+   "appointmentRequired": "yes",
+   "drivethru": "yes",
+   "lat": 35.917625,
+   "lng": -78.962009
+ },
+ {
+   "title": "FastMed Urgent Care",
+   "address": "7010 NC-751, Durham, NC 27707",
+   "phoneNumber": 19193133900,
+   "website": "https://www.fastmed.com/urgent-care-centers/durham-nc-walk-in-clinic/?utm_source=Google&utm_medium=KnowledgePanel&utm_campaign=GMBWebsite",
+   "appointmentRequired": "no",
+   "drivethru": "no",
+   "lat": 35.845774,
+   "lng": -79.090157
+ },
+ {
+   "title": "CVS",
+   "address": "11314 US Hwy 15 501 N, Chapel Hill, NC 27514",
+   "phoneNumber": 19199295664,
+   "website": "https://www.cvs.com/store-locator/cvs-pharmacy-address/11314+Us+15+501+North-Chapel+Hill-NC-27514/storeid=7321?WT.mc_id=LS_GOOGLE_FS_7321",
+   "appointmentRequired": "yes",
+   "drivethru": "yes",
+   "lat": 35.845806,
+   "lng": -79.090259
+ },
+ {
+   "title": "IndyCare Hillsborough",
+   "address": "110 Boone Square St #29A, Hillsborough, NC 27278",
+   "phoneNumber": 19192451213,
+   "website": "https://www.indycarehealth.com/",
+   "appointmentRequired": "yes",
+   "drivethru": "yes",
+   "lat": 36.063376,
+   "lng": -79.100781
+ },
+ {
+   "title": "UNC Hospitals Hillsborough Campus",
+   "address": "430 Waterstone Dr, Hillsborough, NC 27278",
+   "phoneNumber": 19842152000,
+   "website": "http://www.uncmedicalcenter.org/uncmc/hillsborough-campus/",
+   "appointmentRequired": "yes",
+   "drivethru": "no",
+   "lat": 36.036943,
+   "lng": -79.090876
+ },
+ {
+   "title": "Med First Chapel Hill",
+   "address": "Ram’s Plaza, 1728 Fordham Blvd #151, Chapel Hill, NC 27514",
+   "phoneNumber": 19199681985,
+   "website": "https://www.thinkmedfirst.com/locations/med-first-chapel-hill/",
+   "appointmentRequired": "yes",
+   "drivethru": "no",
+   "lat": 35.937573,
+   "lng": -79.02192
+ },
+ {
+   "title": "FastMed Urgent Care",
+   "address": "1407 E Franklin St, Chapel Hill, NC 27514",
+   "phoneNumber": 19199130996,
+   "website": "https://www.fastmed.com/urgent-care-centers/chapel-hill-nc-walk-in-clinic/?utm_source=Google&utm_medium=KnowledgePanel&utm_campaign=GMBWebsite",
+   "appointmentRequired": "no",
+   "drivethru": "no",
+   "lat": 35.929207,
+   "lng": -79.034843
+ },
+ {
+   "title": "Carrboro Community Health Center",
+   "address": "301 Lloyd St, Carrboro, NC 27510",
+   "phoneNumber": 19199428741,
+   "website": "http://www.piedmonthealth.org/",
+   "appointmentRequired": "no",
+   "drivethru": "no",
+   "lat": 35.913515,
+   "lng": -79.069813
+ },
+ {
+   "title": "UNC Hospitals",
+   "address": "101 Manning Dr, Chapel Hill, NC 27514",
+   "phoneNumber": 19849741000,
+   "website": "http://www.uncmedicalcenter.org/uncmc/",
+   "appointmentRequired": "yes",
+   "drivethru": "no",
+   "lat": 35.90398,
+   "lng": -79.051502
+ }
+]
+}
